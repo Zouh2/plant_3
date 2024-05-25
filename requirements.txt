@@ -3,6 +3,7 @@ torch~=2.3.0
 numpy
 pandas
 matplotlib
+Flask-Cors
 pip~=23.2.1
 wheel~=0.43.0
 pillow~=10.3.0
