@@ -14,5 +14,5 @@ pyparsing~=3.1.2
 typing_extensions~=4.12.0
 Flask~=3.0.3
 pyfcm~=1.5.4
-decouple~=0.0.7
+python-decouple
 torchvision~=0.18.0
